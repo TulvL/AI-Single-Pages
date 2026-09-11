@@ -1,2 +1,6 @@
 # Local design references, excluded from version control.
 /_references/
+
+# Local AI assistant instructions.
+/AGENTS.md
+/CLAUDE.md
