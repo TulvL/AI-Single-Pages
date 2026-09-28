@@ -6,7 +6,9 @@
 
 ### AI 测评可视化
 
-- [Intelligence Index vs. Cost（交互版）](https://ai-single.pages.dev/benchmark/intelligence-index-vs-cost-2026-09-22-interactive.html) — 2026-09-22 数据快照，支持交互查看模型智能指数与任务成本。
+- [智能指数与成本（2026-09-28）][benchmark-latest]
+
+[benchmark-latest]: https://ai-single.pages.dev/benchmark/intelligence-index-vs-cost-2026-09-28-interactive.html
 
 ### AI 金融分析
 
