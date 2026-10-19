@@ -6,9 +6,9 @@
 
 ### AI 测评可视化
 
-- [智能指数与成本（2026-09-28）][benchmark-latest]
+- [智能指数与成本（2026-10-19）][benchmark-latest]
 
-[benchmark-latest]: https://ai-single.pages.dev/benchmark/intelligence-index-vs-cost-2026-09-28-interactive.html
+[benchmark-latest]: https://ai-single.pages.dev/benchmark/intelligence-index-vs-cost-2026-10-19-interactive.html
 
 ### AI 金融分析
 
